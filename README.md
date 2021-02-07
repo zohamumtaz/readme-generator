@@ -19,7 +19,7 @@ The quality of a README often differentiates a good project from a bad project. 
 ## Usage
 In the line we must run node index.js. Begin to answer all of the questions, once completed the README.md file will be generated in the current directory.  
 
-How-to video:/Users/zohamumtaz/Projects/readme-generator/project walkthrough/Screen Recording 2021-02-07 at 12.48.04 PM.mov start question promts, in this directory containing the project, from the terminal
+How-to video:https://github.com/zohamumtaz/readme-generator/blob/master/project%20walkthrough/Screen%20Recording%202021-02-07%20at%2012.48.04%20PM.mov start question promts, in this directory containing the project, from the terminal
 
 ## License
 This project is Licensed under the MIT License.
