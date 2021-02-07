@@ -1,10 +1,8 @@
 # README File Generator
 
 ![](https://img.shields.io/badge/license-MIT%20License-blue?style=flat-square)
-## Description
-Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
-
-The quality of a README often differentiates a good project from a bad project. A good one takes advantage of the opportunity to explain and showcase what your application does, justify the technologies used, and even talk about some of the challenges you faced and features you hope to implement in the future. A good README helps you stand out among the large crowd of developers putting their work on GitHub.
+## Descriptions
+In This Project we are using noded.js to make a readme file that takes input from the user via inquirer by asking a series of questions.
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -25,4 +23,4 @@ How-to video:https://github.com/zohamumtaz/readme-generator/blob/master/project%
 This project is Licensed under the MIT License.
 
 ## Credits
-This assignemnt was made with the help of modules online lecture and opensource videos and articles.
+This assignment was made with the help of module starter code, online lecture and opensource videos and articles.
