@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/license-MIT%20License-blue?style=flat-square)
 ## Descriptions
-In This Project we are using noded.js to make a readme file that takes input from the user via inquirer by asking a series of questions.
+In This Project we are using node.js to make a readme file that takes input from the user via inquirer by asking a series of questions.
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
